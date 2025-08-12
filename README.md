@@ -28,7 +28,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oortmealy&show_icons=true&theme=radical" alt="stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oortmealy&theme=radical" alt="streak" />
 </p>
 
 ---
