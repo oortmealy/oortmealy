@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm oortmealy</h1>
 
-- 🌱 I’m currently learning **React, TypeScript, and Linux System Programming**
 - 🔭 I’m currently working on **web and mobile apps using React and React Native**
-- 🧠 I regularly contribute to **frontend projects with a focus on UX**
 - 📫 How to reach me: **oortmealy@gmail.com**
 
 ---
