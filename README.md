@@ -19,18 +19,3 @@
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oortmealy&show_icons=true&theme=radical" alt="stats" />
-  <br />
-</p>
-
----
-
-### 🧩 Currently Interested in
-- Linux system programming
-- React Native app development
-- React development
