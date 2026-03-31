@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm oortmealy</h1>
 <p align="center">Full-Stack Web Developer focused on building production-ready products</p>
 
+## 📊 Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oortmealy&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oortmealy&layout=compact)
 
 ### 🛠️ Tech Stack
 
@@ -12,7 +16,6 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oortmealy&show_icons=true)
 
 
 #### Frameworks & Libraries
