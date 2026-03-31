@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm oortmealy</h1>
 <p align="center">Full-Stack Web Developer focused on building production-ready products</p>
 
-## 📊 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oortmealy&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oortmealy&layout=compact)
 
 ### 🛠️ Tech Stack
 
